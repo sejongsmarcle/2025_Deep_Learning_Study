@@ -84,8 +84,7 @@
 	- 수업 시간에 푼 문제의 풀이 제출
 - 결석사유서 : **결석하는 스터디 회차의 전 날까지** 운영위원에게 제출(smarcle2024@gmail.com) <br>
 [동아리 결석 사유서.hwpx](https://github.com/sejongsmarcle/2025_Deep_Learning_Study/blob/main/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C.hwpx) <br>
-
-[동아리 결석 사유서.docx](~~)
+[동아리 결석 사유서.docx](https://github.com/sejongsmarcle/2025_Deep_Learning_Study/blob/main/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C_word%EC%9A%A9.docx)  
 
   
 
